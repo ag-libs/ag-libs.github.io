@@ -6,10 +6,6 @@ url: "https://ag-libs.github.io"
 baseurl: ""
 
 theme: minima
-author:
-  name: Alexey Gavrilov
-
-github_username: ag-libs
 show_excerpts: true
 
 header_pages:
@@ -17,5 +13,4 @@ header_pages:
   - about.md
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
