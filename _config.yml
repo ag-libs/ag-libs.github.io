@@ -4,6 +4,7 @@ description: >-
   server that works straight from your Maven build.
 url: "https://ag-libs.github.io"
 baseurl: ""
+permalink: /:year/:month/:day/:title/
 
 theme: minima
 show_excerpts: true
