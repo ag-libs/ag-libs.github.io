@@ -1,0 +1,21 @@
+title: ag-libs
+description: >-
+  Open source Java tooling and libraries, including Lathe — a Java language
+  server that works straight from your Maven build.
+url: "https://ag-libs.github.io"
+baseurl: ""
+
+theme: minima
+author:
+  name: Alexey Gavrilov
+
+github_username: ag-libs
+show_excerpts: true
+
+header_pages:
+  - projects.md
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
